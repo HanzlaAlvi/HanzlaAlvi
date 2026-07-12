@@ -10,11 +10,6 @@
 
 <img src="https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logoColor=000000&labelColor=030014" alt="Open to Work"/>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=HanzlaAlvi&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/HanzlaAlvi?label=FOLLOWERS&style=for-the-badge&color=7dd3fc" alt="Followers"/>
-
 </div>
 
 <br/>
@@ -34,10 +29,6 @@ I'm currently open to full-time roles, internships, and freelance collaborations
 ### 🛒 GreenCart — E-Commerce Platform
 Full-stack e-commerce platform with role-based admin/user modules and a secure checkout pipeline.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HanzlaAlvi&repo=GreenCart&theme=nord&border_color=7dd3fc&bg_color=030014&title_color=7dd3fc&text_color=c9d1d9" alt="GreenCart"/>
-</div>
-
 | Layer | Technology |
 |---|---|
 | Frontend | React.js |
@@ -51,10 +42,6 @@ Full-stack e-commerce platform with role-based admin/user modules and a secure c
 
 ### 🏢 VenueHub — Booking Platform
 Full-stack venue booking system with real-time availability, booking requests, and order management.
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HanzlaAlvi&repo=Venue-Hub-&theme=nord&border_color=7dd3fc&bg_color=030014&title_color=7dd3fc&text_color=c9d1d9" alt="VenueHub"/>
-</div>
 
 | Layer | Technology |
 |---|---|
@@ -70,10 +57,6 @@ Full-stack venue booking system with real-time availability, booking requests, a
 ### 🏥 MediCare — Healthcare Mobile App
 Flutter healthcare app using the Gemini AI API to validate prescriptions and manage medicine orders.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HanzlaAlvi&repo=MediCare&theme=nord&border_color=7dd3fc&bg_color=030014&title_color=7dd3fc&text_color=c9d1d9" alt="MediCare"/>
-</div>
-
 | Layer | Technology |
 |---|---|
 | Framework | Flutter |
@@ -87,10 +70,6 @@ Flutter healthcare app using the Gemini AI API to validate prescriptions and man
 
 ### 🌤️ Weather App
 Desktop weather application with a Tkinter GUI, pulling live weather data via a modular codebase.
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HanzlaAlvi&repo=Weather-App&theme=nord&border_color=7dd3fc&bg_color=030014&title_color=7dd3fc&text_color=c9d1d9" alt="Weather App"/>
-</div>
 
 | Layer | Technology |
 |---|---|
@@ -145,21 +124,10 @@ Desktop weather application with a Tkinter GUI, pulling live weather data via a 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HanzlaAlvi&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=030014&text_color=c9d1d9" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanzlaAlvi&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&bg_color=030014&text_color=c9d1d9" width="49%" alt="Top Languages"/>
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=HanzlaAlvi&theme=nord&border=7dd3fc&background=030014&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
 </div>
 
 <br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HanzlaAlvi&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
-</div>
 
 ## 📈 Activity Graph
 
