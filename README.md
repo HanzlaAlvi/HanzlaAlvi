@@ -21,7 +21,7 @@
 
 ## 🧠 Who I Am
 
-```ts
+
 const hanzlaAlvi = {
   title: "Full Stack Developer",
   status: "Final-year Software Engineering student @ Riphah International University",
@@ -45,7 +45,7 @@ const hanzlaAlvi = {
   ],
   openTo: ["Full-Time Roles", "Internships", "Freelance Projects", "Collaboration"]
 };
-```
+
 
 <br/>
 
