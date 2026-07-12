@@ -19,33 +19,13 @@
 
 <br/>
 
-## 🧠 Who I Am
+## 👋 Hi There
 
+I'm Hanzla Alvi, a Full Stack Developer and final-year Software Engineering student at Riphah International University, Islamabad. I build across the MERN stack, React Native, and Flutter — turning ambiguous requirements into real, production-ready products.
 
-const hanzlaAlvi = {
-  title: "Full Stack Developer",
-  status: "Final-year Software Engineering student @ Riphah International University",
-  stack: [
-    "JavaScript", "C++", "Java", "Python",
-    "React.js", "Next.js", "Node.js", "Express.js",
-    "React Native", "Flutter",
-    "MongoDB", "Firebase", "SQL",
-    "Figma"
-  ],
-  launchedProjects: [
-    "RAAHI — Smart Transportation System (Final Year Project)",
-    "GreenCart — E-Commerce Platform",
-    "VenueHub — Booking Platform",
-    "MediCare — Healthcare Mobile App",
-    "Weather App"
-  ],
-  certifications: [
-    "Better Business Writing in English — Georgia Institute of Technology (Coursera)",
-    "Present with Purpose: Create/Deliver Effective Presentations — IBM (Coursera)"
-  ],
-  openTo: ["Full-Time Roles", "Internships", "Freelance Projects", "Collaboration"]
-};
+Over the past year I went from intern to independent builder: I completed a Full Stack Software Engineering internship at **GOFTECH**, and I'm currently leading development on **RAAHI**, a real-time transportation platform with live GPS tracking and a custom-built routing engine, as my Final Year Project. Alongside that I've shipped an e-commerce platform, a venue booking system, and an AI-assisted healthcare app — splitting my time between VS Code and Figma so the code stays as clean as the interface.
 
+I'm currently open to full-time roles, internships, and freelance collaborations. Always up for talking tech. 🚀
 
 <br/>
 
@@ -124,25 +104,41 @@ Desktop weather application with a Tkinter GUI, pulling live weather data via a 
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,cpp,java,py&theme=dark" alt="languages"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 **Frontend & Mobile**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter&theme=dark" alt="frontend and mobile"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-**Backend & Infra**
+**Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="backend and infra"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-**AI & Databases**
+**Database & Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql&theme=dark" alt="ai and databases"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-**Dev Tools**
+**Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" alt="dev tools"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</div>
 
 <br/>
 
