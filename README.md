@@ -24,63 +24,6 @@ I'm currently open to full-time roles, internships, and freelance collaborations
 
 <br/>
 
-## 🚀 Featured Projects
-
-### 🛒 GreenCart — E-Commerce Platform
-Full-stack e-commerce platform with role-based admin/user modules and a secure checkout pipeline.
-
-| Layer | Technology |
-|---|---|
-| Frontend | React.js |
-| Backend | Node.js, Express.js |
-| Database | MongoDB |
-| Auth | JWT |
-
-<p><a href="https://github.com/HanzlaAlvi/GreenCart">🔗 Code</a></p>
-
----
-
-### 🏢 VenueHub — Booking Platform
-Full-stack venue booking system with real-time availability, booking requests, and order management.
-
-| Layer | Technology |
-|---|---|
-| Stack | MERN |
-| Frontend | Next.js |
-| Backend | Node.js, Express.js |
-| Database | MongoDB |
-
-<p><a href="https://github.com/HanzlaAlvi/Venue-Hub-">🔗 Code</a></p>
-
----
-
-### 🏥 MediCare — Healthcare Mobile App
-Flutter healthcare app using the Gemini AI API to validate prescriptions and manage medicine orders.
-
-| Layer | Technology |
-|---|---|
-| Framework | Flutter |
-| Backend | Firebase, MongoDB |
-| AI | Gemini AI API |
-| Design | Figma |
-
-<p><a href="https://github.com/HanzlaAlvi/MediCare">🔗 Code</a></p>
-
----
-
-### 🌤️ Weather App
-Desktop weather application with a Tkinter GUI, pulling live weather data via a modular codebase.
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| GUI | Tkinter |
-| Data | Weather API |
-
-<p><a href="https://github.com/HanzlaAlvi/Weather-App">🔗 Code</a></p>
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
